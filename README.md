@@ -17,6 +17,7 @@ distibution_to_INN.sql - sql-script for generating data in the form of:
 Data_showcase.sql - sql-script for generating data in the form of:  
 
 | BIC | PrntBIC | Flag_Col | Bank_INN |
+| --- | --- | --- | --- |
 | 215000042 | 044525985 | 1 | 450000464 |
 | 205000024 | null | 0 | 450000938 |
 | 044525677 | 043469751 | 1 | 630000009 | 
